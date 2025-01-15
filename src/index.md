@@ -14,9 +14,9 @@ Bem vindo ao material das atividades de escrita científica do Projeto Final. No
 Nesta primeira aula abordamos a escrita do resumo e usaremos um guia para escrever uma versão inicial do resumo.
 
 <center>
-<embed src="slides-resumo.pdf" width="50%"></embed>
-<center>
+<embed src="slides-resumo.pdf" style="width: 100%; height: 400px;"></embed>
 
 
 [Baixar referência](handout-resumo.pdf) | [Baixar exercícios](handout-resumo-exercicio.pdf)
 
+</center>
