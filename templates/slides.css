@@ -1,0 +1,114 @@
+/* insper.css */
+/* @theme insper */
+
+@import 'default';
+
+:root {
+	--red-color: #962426;
+	--h1-color: var(--red-color);
+	--color-fg-default: #6D6B6B;
+}
+
+section h1 {
+	position: absolute;
+	top: 1.5rem;
+}
+
+section img {
+	margin-left: auto;
+	margin-right: auto;
+
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+
+	display: block;
+		
+}
+
+section.side-by-side {
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+section.side-by-side p:nth-child(2) {
+	margin-left: 2rem;
+}
+
+section.side-by-side img {
+	width: 500px;
+}
+
+section.side-by-side > p.bottom {
+	flex-basis: 100%;
+}
+
+section.quote blockquote {
+    border:none;
+    quotes: "\201C""\201D""\2018""\2019";
+    position: relative;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+section.quote blockquote p:before {
+	content: open-quote;
+	font-weight: bold;
+	font-size:100px;
+	color: var(--red-color);
+	position: absolute;
+	left: -30px;
+	top: -50px;
+}
+
+section.quote blockquote p:after {
+	content: close-quote;
+	font-weight: bold;
+	font-size:100px;
+	color: var(--red-color);
+	position: absolute;
+	right: -15px;
+}
+
+section.front h1 {
+	position: relative;
+	margin-bottom: 2.3rem;
+	font-size: 2rem;
+	padding-top: 100px;
+}	
+
+section.front h2 {
+	text-align: right;
+	font-size: 1.3rem;
+	padding-left: 200px;
+}
+
+section.front strong {
+	color: #852022;
+}
+
+section.front img {
+	max-height: 40px;
+	display: inline-block;
+	float: right;
+}
+
+footer {
+	position: absolute;
+	right: 10px;
+	text-align: right;
+}
+
+section p.bottom-right {
+	position: absolute;
+	right: 50px;
+	bottom: 70px;
+	background-color: var(--red-color);
+	color: white;
+	font-weight: bold;
+	max-width: 300px;	
+	padding: 0.3rem;
+	border-radius: 0.5rem;
+}
+
