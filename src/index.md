@@ -1,0 +1,19 @@
+---
+title: Workshop de escrita científica
+author: Igor Montagner
+...
+
+Bem vindo ao material das atividades de escrita científica do Projeto Final. Nosso cronograma foi feito para sincronizar com as datas de entrega do Projeto Final.
+
+- **XX/YY**: escrita de resumos
+- **XX/YY**: estrutura do relatório intermediário
+- **XX/YY**: mentoria de escrita -- traga suas dúvidas
+
+## Aula 1 - o resumo
+
+Nesta primeira aula abordamos a escrita do resumo e usaremos um guia para escrever uma versão inicial do resumo.
+
+TODO: slides em PDF aqui
+
+![Baixar referência](referencia.md) | ![Baixar exercícios](exercicios.md)
+
