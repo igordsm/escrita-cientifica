@@ -9,7 +9,7 @@ DEBUG=True
 sh = functools.partial(subprocess.run, check=True, shell=True, capture_output=not DEBUG)
 DATE_CMD = 'date +\"%d/%m/%Y %H:%M\"'
 PANDOC_HANDOUT = 'pandoc -f markdown+pipe_tables+backtick_code_blocks+fenced_divs+raw_html --lua-filter=filters/message.lua --lua-filter=filters/spacer.lua --lua-filter=filters/graphviz.lua  -s --template templates/tufte-handout.tex '
-PANDOC_PAGE = 'pandoc -f gfm --toc -s --template templates/template-index.html '
+PANDOC_PAGE = 'pandoc -f gfm+attributes --toc -s --template templates/template-index.html '
 PANDOC_VARS = f'-V date="$({DATE_CMD})" -V versao="2025/01"'
 MARP_CMD = 'npx @marp-team/marp-cli  --theme templates/slides.css  --allow-local-files --html '
 

@@ -17,6 +17,6 @@ Nesta primeira aula abordamos a escrita do resumo e usaremos um guia para escrev
 <embed src="slides-resumo.pdf" style="width: 100%; height: 400px;"></embed>
 
 
-[Baixar referência](handout-resumo.pdf) | [Baixar exercícios](handout-resumo-exercicio.pdf)
+[Baixar referência](handout-resumo.pdf){.button} | [Baixar exercícios](handout-resumo-exercicio.pdf){.button}
 
 </center>
