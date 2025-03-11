@@ -1,5 +1,5 @@
 ---
-title: Escrita de texto usando *outlines* - **Referência**
+title: "**Referência**: Escrita de texto usando *outlines*"
 subtitle: Atividades de Escrita Científica/Técnica
 author: Igor Montagner
 ...
@@ -31,8 +31,10 @@ O processo de escrita usando *outlines* é iterativo e consiste em 5 passos:
 
 Isso deve criar **a primeira versão do seu texto**. Ele provavelmente poderá melhorar muito, mas agora temos uma versão completa do trabalho. 
 
-::: info ::: Lembrete!
-Escrever e editar são duas atividades diferentes. É muito mais fácil melhorar um texto medíocre do que escrever, de primeira, um texto bom.
+::: tip :::
+Lembrete!
+
+Escrever e editar são duas atividades diferentes. É muito mais fácil melhorar um texto medíocre do que escrever, de primeira, um texto bom. Por outro lado, se estiver muito ruim é melhor jogar fora e começar de novo =(
 :::
 
 

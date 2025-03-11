@@ -172,4 +172,3 @@ Isso criará a **primeira versão** do seu texto.
 
 **45 minutos**
 
------

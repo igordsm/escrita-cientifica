@@ -1,7 +1,9 @@
 ---
-title: Escrita de texto usando *outlines* - **Exercício**
+title: "**Exercício**: Escrita de texto usando *outlines*"
 subtitle: Atividades de Escrita Científica/Técnica
 author: Igor Montagner
+tables-vrules: true
+tables-hrules: true
 ...
 
 # Atividade 1 - O que vai em cada seção?
@@ -14,15 +16,11 @@ Na tabela abaixo, coloque a porcentagem de cada seção que deve ser destinada a
 
 
 Seção / Parte | Motivação | Revisão Lit | Gap   | Proposta | Resultados | Conclusão
-----          | -----     | -----       | ----- | ----     | ----       | ------ 
+--------------|-----------|-------------|-------|----------|------------|--------
 Introdução    |           |             |       |          |            |
-----          | -----     | -----       | ----- | ----     | ----       | ------ 
 Revisão Lit   |           |             |       |          |            |
-----          | -----     | -----       | ----- | ----     | ----       | ------ 
 Metodologia   |           |             |       |          |            |
-----          | -----     | -----       | ----- | ----     | ----       | ------ 
 Resultados    |           |             |       |          |            | 
-----          | -----     | -----       | ----- | ----     | ----       | ------ 
 Conclusão     |           |             |       |          |            | 
 
 
@@ -38,11 +36,15 @@ Escrever o relatório vai levar bastante tempo, porém escrever o outline de uma
 
 Se acabou, troque seu outline com outro grupo para ter feedback do seu trabalho. O grupo vai precisar do seu resumo e do outline criado.
 
+::: warn :::
+Não tem resumo?
+
+Use o da próxima página para fazer a atividade!
+:::
+
 [break]
 
-Se não tem um resumo, use o abaixo.
-
-A importância de identificar e monitorar padrões climáticos anômalos, como secas,
+**Resumo**: A importância de identificar e monitorar padrões climáticos anômalos, como secas,
 enchentes e alagamentos, é intensificada pelas mudanças climáticas atuais. A utilização de
 imagens de satélite para identificar comportamentos das cidades em aspectos históricos surge
 como uma abordagem promissora para abordar essas questões.

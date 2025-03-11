@@ -26,3 +26,13 @@ Nesta primeira aula abordamos a escrita do resumo e usaremos um guia para escrev
 ## Aula 2 - estrutura geral do texto
 
 Na segunda aula passamos por todas as seções do relatório e praticamos a utilização de *outlines* para criar uma estrutura em alto nível do texto a ser escrito. 
+
+
+<center>
+<embed src="slides-outline.pdf" style="width: 100%; height: 400px;"></embed>
+
+
+[Baixar referência](handout-outline.pdf){.button} | [Baixar exercícios](handout-outline-exercicio.pdf){.button}
+
+</center>
+
