@@ -1,6 +1,6 @@
 <!-- _class: front -->
 
-# Escrita usanod *outlines*
+# Escrita usando *outlines*
 
 ## Escrita científica/técnica -- Projeto Final
 
