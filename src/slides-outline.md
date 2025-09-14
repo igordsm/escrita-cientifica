@@ -1,3 +1,7 @@
+---
+footer: 'Igor Montagner (igorsm1@insper.edu.br)'
+---
+
 <!-- _class: front -->
 
 # Escrita usando *outlines*
@@ -37,6 +41,12 @@
 6. conclusão
 
 ### Mesmos elementos serão expandidos no texto completo
+
+----
+
+<!-- _class: front -->
+
+# E o relatório preliminar?
 
 -------
 
@@ -157,12 +167,6 @@ Aluno do capstone
 4. expandir os tópicos em parágrafos escritos "normalmente"
 
 Isso criará a **primeira versão** do seu texto.
-
-----
-
-<!-- _class: front -->
-
-# E o relatório preliminar?
 
 -----
 
