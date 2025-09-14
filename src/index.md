@@ -6,9 +6,9 @@ author: Igor Montagner
 Bem vindo ao material das atividades de escrita científica do Projeto Final. Nosso cronograma foi feito para sincronizar com as datas de entrega do Projeto Final.
 
 - **Sala 405**
-- **10/03 - 07:30**: escrita de resumos
-- **12/03 - 07:30**: estrutura do relatório intermediário
-- **17/03 - 07:30**: mentoria de escrita -- traga suas dúvidas
+- **15/09 - 09:45**: escrita de resumos
+- **17/09 - 09:45**: estrutura do relatório intermediário
+- **19/09 - 14:15**: mentoria de escrita -- traga suas dúvidas
 
 ## Aula 1 - o resumo
 

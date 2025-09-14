@@ -71,7 +71,7 @@
 
 #
 
-## E deaspectos negativos?
+## E de aspectos negativos?
 
 -----
 
@@ -112,7 +112,7 @@ Na Computação (e em menor grau engenharias em geral), o texto tem característ
 
 <!-- _class: quote -->
 
-> Vocês são cientistas/engenheiros, não o Saramago
+> Vocês são cientistas/engenheiros, não Machado de Assis
 
 Igor Montagner
 
